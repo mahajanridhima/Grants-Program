@@ -62,8 +62,6 @@ Worked in web3 space from 2016 to 2019. Created a Decentralized exchange on top 
 | ------------- | ------------- | ------------- |
 | 0. | Apache License 2.0 | All code will be published under Apache 2.0 |
 | 1. | SDK development | We need to develop a SDK so that anyone can integrate the Interactive NFTs in their frontends |
-| 3. | UI development | UI for both traditional and Interactive NFTs so that anyone can fork the repository and they can easily build their Interactive NFT marketplace |
-
 
 ## Additional Information :heavy_plus_sign: 
 
