@@ -6,15 +6,13 @@
 
 ## Project Description :page_facing_up: 
 
-Lunatic Games is the first Metaverse blockchain gaming edition, promising to upgrade its players' lifestyles in exchange for their dedication and engagement.
+Lunatic Games Studio is the first Play for lifestyle blockchain gaming edition, promising to upgrade its players' lifestyles in exchange for their dedication and engagement.
 
 We are building a browser-based web3 game where users will need to stake $SLNT tokens to play.
 
-Designed with unreal Engine 5 and in-house resources The game framework project provides the players with a greek history with countless spells, Societies abilities and environment.
+Designed with unreal Engine 5 and in-house resources The game framework project provides the players with a greek history with countless spells, Societies abilities and environment our sole mission is to ‘Add Value’ to our players lives!
 
-NFTs in-game are obtained through rare drops and in-game events. Our sole mission is to ‘Add Value’ to our players lives!
-
-Our NFTs are interactive in nature, i.e you can interact with them using your mouse and keyboard. We are going to build product `nft2point0`. We will be building Interactive NFT infrastructure so that they can serve in our in-game NFT marketplace.
+Our NFTs are interactive in nature, i.e you can interact with them using your mouse and keyboard. We are going to build product. We will be building Interactive NFT infrastructure so that they can serve in our in-game NFT marketplace.
 
 ## Team :busts_in_silhouette:
 
