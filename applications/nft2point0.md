@@ -24,8 +24,8 @@ Worked in web3 space from 2016 to 2019. Created a Decentralized exchange on top 
 
 ## Development Roadmap :nut_and_bolt: 
 
-* **Total Estimated Duration:** 11 weeks
-* **Total Costs:** 1.8 BTC
+* **Total Estimated Duration:** 14 weeks
+* **Total Costs:** 2.84 BTC
 
 ### Milestone 1
 
