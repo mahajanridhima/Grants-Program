@@ -86,7 +86,7 @@ Projects Done:
 | ------------- | ------------- | ------------- |
 | 0. | SDK development | We need to develop a SDK so that anyone can integrate the Interactive NFTs in their frontends |
 | 1. | UI development | UI for both traditional and Interactive NFTs so that anyone can fork the repository and they can easily build their Interactive NFT marketplace |
-| 2. | Game story cinematic teaser 1 | <TODO: Fill it> |
+| 2. | Game story cinematic teaser 1 | This story cinematic teaser will be released in 3D. |
 
 
 ### Milestone 3
@@ -102,4 +102,4 @@ Projects Done:
 
 ## Additional Information :heavy_plus_sign: 
 
-* We're currently implementing it in <blockchain_name> blockchain.
+* We're currently implementing it in `substrate framework`.
